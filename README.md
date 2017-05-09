@@ -3,7 +3,7 @@ Teste por Marina Luiza Lardizábal Vieira
 
 ### Rodar aplicação localmente
 * Clonar projeto do git: 
-`git clone xxx`
+`git clone https://github.com/marinaluiza/total-voice-test.git`
 * Mover para o diretório desejado
 * No terminal (ou como desejar), entrar no diretório e rodar servidor PHP local: `php -S localhost:8000`
 * Entrar na aplicação pelo navegador: http://localhost:8000
